@@ -1,0 +1,2 @@
+# -ALGNFTH
+control world
