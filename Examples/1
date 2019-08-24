@@ -1,0 +1,1 @@
+# check if the port is listened or not-> "sudo netstat -tulpn | grep LISTEN"
