@@ -1,0 +1,29 @@
+{
+  "mainFile": "main-program.py", 
+  "use-tabs": true, 
+  "venv": "", 
+  "relatedProjects": [], 
+  "name": "my projecct", 
+  "license": "Other", 
+  "url": "", 
+  "pythonPath": "python", 
+  "preExecScript": "sessions.py", 
+  "additional_builtins": [], 
+  "programParams": "", 
+  "indentation": 4, 
+  "PYTHONPATH": "", 
+  "supported-extensions": [
+    ".py", 
+    ".html", 
+    ".jpg", 
+    ".png", 
+    ".ui", 
+    ".css", 
+    ".json", 
+    ".js", 
+    ".ini"
+  ], 
+  "project-type": "", 
+  "postExecScript": "encryption.py", 
+  "description": ""
+}
